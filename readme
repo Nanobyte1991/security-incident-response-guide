@@ -1,0 +1,44 @@
+# Cyber Incident Response Template
+
+## What is this?
+
+This is a practical template designed to help organisations respond to cyber security incidents in a clear and structured way. It covers everything from the moment an incident is reported through to resolution and review.
+
+Whether you’re dealing with phishing, malware, or unusual system behaviour, this guide helps you document what happened, manage the response, and keep the right people informed.
+
+## Why use it?
+
+Managing cyber incidents can be stressful, especially when time is critical. This template helps you:
+
+- Record key details quickly and clearly  
+- Assess the severity of the incident  
+- Coordinate actions between the security team and the wider business  
+- Meet compliance and reporting obligations  
+- Learn from incidents and strengthen security for the future
+
+## What’s included?
+
+- **Client Reporting Guide**: Simple steps for users to report incidents properly  
+- **Security Team Actions**: Checklists for investigation, containment, and resolution  
+- **Severity Assessment**: Helps judge the impact of each incident  
+- **Communication Plan**: Ensures the right people are notified  
+- **Post-Incident Review**: Captures lessons learned to prevent future issues  
+- **Compliance Notes**: Space to record any legal or regulatory requirements  
+
+## How do I use it?
+
+1. Download or clone this repository.  
+2. Use the template to document incidents.  
+3. Tailor it to your organisation’s needs.  
+4. Use it during real incidents or training exercises.
+
+## Files in this repository
+
+- **Cyber Security Incident Response Template.docx** – The main template  
+- **Cyber Security Incident Response Template.md** – The same template in Markdown (optional)  
+- **README.md** – This guide  
+- **CONTRIBUTING.md** – Optional guidelines for people who want to suggest improvements  
+
+## Contributing
+
+If you spot something that could be improved, feel free to submit a pull request or open an issue. All feedback is welcome.
